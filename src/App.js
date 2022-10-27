@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Brasil acima de tudo, Deus acima de todos !, edit <code>src/App.js</code> and save to reload.
+          Brasil acima de tudo, Deus acima de todos !!!, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
